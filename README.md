@@ -40,4 +40,3 @@ Language-Detection/
 ├── Python Language Detection capstone project.ipynb   # Main notebook
 ├── dataset.csv                                        # Language dataset
 ├── README.md                                          # This file
-└── requirements.txt                                   # Python dependencies (optional)
